@@ -1,4 +1,4 @@
-CREATE TABLE AthleteData (
+CREATE TABLE olymics_games(
     Sex VARCHAR,
     Age INT,
     Height float,
